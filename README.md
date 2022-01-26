@@ -19,6 +19,7 @@ Forma 2: Executar o comando "git clone https://github.com/SadGitHubb/teste-tecni
 
 ### Executando código
 IDE: Executamos o código indo na aba Run e em Run Without Debugging ou Start Debugging, selecione NodeJs.
+
 Terminal: Vamos copiar o caminho do arquivo colocando o teste_tecnico.js no final. Exemplo: C:\Users\user\Área de Trabalho\pasta\teste_tecnico.js e vamos executar o comando 'node "C:\Users\user\Área de Trabalho\pasta\teste_tecnico.js"'
 
 # Independente da forma que escolher como posso testar?
